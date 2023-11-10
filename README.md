@@ -4,9 +4,10 @@
 
 <p align="left"> 
   Opa, tudo tranquilo? Me chamo Gabriel Rangel e sou apaixonado por desenvolvimento web, sempre buscando me atualizar e aperfeiçoar nas tecnologias atuais. 
+
+  Cursava Gestão de TI, mas decidi mudar para ADS quando tive contato com a programação, a área da programação. Hoje em dia estudo além da faculdade para conseguir uma vaga na área de desenvolvimento
   
-  Atualmente estou estudando JavaScript para conseguir uma vaga na área. Tenho alguns projetos como: Sketch-Up, Calculadora, Página de Login, entre outros.
-  Comecei a estudar essa área apenas por hobby, mas me conquistou e decidi tornar isso algo mais sério, quem sabe viver disso em breve?
+  Atualmente estou estudando JavaScript. Tenho alguns projetos como: Sketch-Up, Calculadora, Página de Login, entre outros.
 
   As grandes coisas vem das pequenas coisas!
 
