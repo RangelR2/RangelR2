@@ -3,13 +3,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Opa, tudo tranquilo? Me chamo Gabriel Rangel e sou apaixonado por desenvolvimento web, sempre buscando me atualizar e aperfeiçoar nas tecnologias atuais. 
+  Opa, tudo certo? Me chamo Gabriel Rangel, e seja bem vindo ao meu GitHub! Aqui sempre vou estar atualizando sobre meus projetos (tantos de estudos como os livres).
 
-  Cursava Gestão de TI, mas decidi mudar para ADS quando tive contato com a programação, a área da programação. Hoje em dia estudo além da faculdade para conseguir uma vaga na área de desenvolvimento
-  
-  Atualmente estou estudando JavaScript. Tenho alguns projetos como: Sketch-Up, Calculadora, Página de Login, entre outros.
+Cursava Gestão de TI, mas decidi mudar para ADS quando tive meu primeiro contato com a programação. Hoje em dia estudo além da faculdade para conseguir uma vaga na área de desenvolvimento.
 
-  As grandes coisas vem das pequenas coisas!
+Atualmente estou estudando JavaScript. Tenho alguns projetos como: Sketch-Up, Calculadora, Página de Login, entre outros.
+
+As grandes coisas vem das pequenas coisas!
 
  <div>
 
