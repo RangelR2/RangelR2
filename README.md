@@ -17,7 +17,6 @@ As grandes coisas vem das pequenas coisas!
 
 </p>
 <p align="left">
-  <strong>🎐 Linguagens:</strong> HTML, CSS e JavaScript.
 </p>
    
    <a href="https://github.com/rangelr2">
